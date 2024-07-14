@@ -1,0 +1,11 @@
+body { color: white; background-color: lightblue }
+
+h1 { color: blue; font-size: 24px; text-align: center }
+
+h2 { color: black; text-align: left }
+
+p { font-size: 18px; text-align: center }
+
+li { color: white; font-size: 24px }
+
+ul { background-color: black }
