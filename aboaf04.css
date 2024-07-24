@@ -1,0 +1,39 @@
+html {
+	padding: 10px;
+	background-color: #FFFFCC;
+}
+
+body {
+	width: 75;
+	padding: 25px;
+	box-shadow: 10px 10px 10px 10px rgba(0,0,0,.5);
+	margin: 30px auto;
+	background-color: #E1EDEB;
+}
+
+h1 {
+	font-size: 3em;
+	margin: 0;
+	color: #FFD600;
+}
+
+p {
+	color: #616161;
+	margin-top: 10px;
+	margin-left: 60px;
+	font-size: 1.2em;
+	line-height: 150%;
+}
+
+h2 {
+	color: #FFBFCB;
+	font-size: 2.2em;
+	border-bottom: 2px white solid;
+}
+
+li {
+	padding: 10px;
+	line-height: 150%;
+	color: #FF66FF;
+	font-size: 1.2em;
+}
